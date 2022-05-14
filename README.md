@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmsanju
+- 👋 Hi, I’m @cmsanju Founder & CEO of GMS INFOTECH(Form CVRINDIA).
 - 👀 I’m interested in ...Inventing new things
 - 🌱 I’m currently providing Training on ... Full Stack Java with Cloud.
 - 💞️ I’m looking to collaborate on ... open platforms
